@@ -1,0 +1,108 @@
+﻿  Reading Qt configuration (D:/Qt/Qt5.9.1/5.9.1/msvc2017_64/bin/qmake)
+  drawobj.cpp
+  FeatureCurve.cpp
+  globalFunc.cpp
+  iMSO_NURBS.cpp
+  main.cpp
+  OCCMainWindow.cpp
+  occModel.cpp
+  occTest.cpp
+  occview.cpp
+  occwin.cpp
+  ReadModelDialog.cpp
+  SelectDialog.cpp
+  selectobj.cpp
+  Str.cpp
+  XIOStream.cpp
+e:\gitfiles\imsov0.1\imsov0.1\xiostream.cpp(474): warning C4477: “sscanf”: 格式字符串“%x”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“char *”
+  e:\gitfiles\imsov0.1\imsov0.1\xiostream.cpp(474): note: 请考虑在格式字符串中使用“%hhx”
+e:\gitfiles\imsov0.1\imsov0.1\xvec.h(10): warning C4005: “PI”: 宏重定义 (编译源文件 FeatureCurve.cpp)
+  e:\gitfiles\imsov0.1\imsov0.1\pointxd.h(4): note: 参见“PI”的前一个定义 (编译源文件 FeatureCurve.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\xvec.h(10): warning C4005: “PI”: 宏重定义 (编译源文件 iMSO_NURBS.cpp)
+  e:\gitfiles\imsov0.1\imsov0.1\pointxd.h(4): note: 参见“PI”的前一个定义 (编译源文件 iMSO_NURBS.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\xvec.h(10): warning C4005: “PI”: 宏重定义 (编译源文件 globalFunc.cpp)
+  e:\gitfiles\imsov0.1\imsov0.1\pointxd.h(4): note: 参见“PI”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(6): warning C4273: “Global::ReduceVarrayDim”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(35): note: 参见“ReduceVarrayDim”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(28): warning C4273: “Global::Bin”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(44): note: 参见“Bin”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(58): warning C4273: “Global::transVectorToVarray”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(50): note: 参见“transVectorToVarray”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(67): warning C4273: “Global::transVectorToVarray”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(51): note: 参见“transVectorToVarray”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(76): warning C4273: “Global::transVectorToVarray”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(52): note: 参见“transVectorToVarray”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(87): warning C4273: “Global::transVarrayToVector”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(57): note: 参见“transVarrayToVector”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(97): warning C4273: “Global::transVarrayToVector”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(58): note: 参见“transVarrayToVector”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(107): warning C4273: “Global::transVarrayToVector”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(59): note: 参见“transVarrayToVector”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(117): warning C4273: “Global::Normalization”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(62): note: 参见“Normalization”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(130): warning C4273: “Global::Normalization”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(65): note: 参见“Normalization”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(143): warning C4273: “Global::GetCenter”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(68): note: 参见“GetCenter”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(166): warning C4273: “Global::P4dToV4d”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(78): note: 参见“P4dToV4d”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(176): warning C4273: “Global::Point4dToVec4”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(80): note: 参见“Point4dToVec4”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(186): warning C4273: “Global::Point4dToVec4”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(81): note: 参见“Point4dToVec4”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(198): warning C4273: “Global::V4dToP4d”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(85): note: 参见“V4dToP4d”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(208): warning C4273: “Global::Vector4dToUnit”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(88): note: 参见“Vector4dToUnit”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(217): warning C4273: “Global::AcrossB”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(91): note: 参见“AcrossB”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(224): warning C4273: “Global::angleAB”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(94): note: 参见“angleAB”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(241): warning C4273: “Global::CurveLength”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(97): note: 参见“CurveLength”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(252): warning C4273: “Global::IsInSet”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(102): note: 参见“IsInSet”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(262): warning C4273: “Global::CalCoordinatesTransMat”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(106): note: 参见“CalCoordinatesTransMat”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(280): warning C4273: “Global::CalTransMat”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(109): note: 参见“CalTransMat”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\xvec.h(10): warning C4005: “PI”: 宏重定义 (编译源文件 occTest.cpp)
+  e:\gitfiles\imsov0.1\imsov0.1\pointxd.h(4): note: 参见“PI”的前一个定义 (编译源文件 occTest.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(332): warning C4273: “Global::CalTransMat”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(111): note: 参见“CalTransMat”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(342): warning C4273: “Global::TransByMat”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(114): note: 参见“TransByMat”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(350): warning C4273: “Global::TransByMat”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(116): note: 参见“TransByMat”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(362): warning C4273: “Global::TransByMat”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(118): note: 参见“TransByMat”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(377): warning C4273: “Global::TransByMat”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(120): note: 参见“TransByMat”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(398): warning C4273: “Global::Sgn”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(123): note: 参见“Sgn”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(436): warning C4273: “Global::GCD”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(133): note: 参见“GCD”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(456): warning C4273: “Global::KnotUnify”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(137): note: 参见“KnotUnify”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(491): warning C4273: “Global::KnotsDiff”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(143): note: 参见“KnotsDiff”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(512): warning C4273: “Global::Project2Plane”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(148): note: 参见“Project2Plane”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\globalfunc.cpp(528): warning C4273: “Global::Project2Plane”: dll 链接不一致
+  e:\gitfiles\imsov0.1\imsov0.1\globalfunc.h(152): note: 参见“Project2Plane”的前一个定义 (编译源文件 globalFunc.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\xvec.h(10): warning C4005: “PI”: 宏重定义 (编译源文件 occwin.cpp)
+  e:\gitfiles\imsov0.1\imsov0.1\pointxd.h(4): note: 参见“PI”的前一个定义 (编译源文件 occwin.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\xvec.h(10): warning C4005: “PI”: 宏重定义 (编译源文件 main.cpp)
+  e:\gitfiles\imsov0.1\imsov0.1\pointxd.h(4): note: 参见“PI”的前一个定义 (编译源文件 main.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\xvec.h(10): warning C4005: “PI”: 宏重定义 (编译源文件 OCCMainWindow.cpp)
+  e:\gitfiles\imsov0.1\imsov0.1\pointxd.h(4): note: 参见“PI”的前一个定义 (编译源文件 OCCMainWindow.cpp)
+  moc_occwin.cpp
+  moc_occview.cpp
+  moc_OCCMainWindow.cpp
+  moc_SelectDialog.cpp
+  moc_ReadModelDialog.cpp
+e:\gitfiles\imsov0.1\imsov0.1\xvec.h(10): warning C4005: “PI”: 宏重定义 (编译源文件 x64\Debug\moc\moc_OCCMainWindow.cpp)
+  e:\gitfiles\imsov0.1\imsov0.1\pointxd.h(4): note: 参见“PI”的前一个定义 (编译源文件 x64\Debug\moc\moc_OCCMainWindow.cpp)
+e:\gitfiles\imsov0.1\imsov0.1\xvec.h(10): warning C4005: “PI”: 宏重定义 (编译源文件 x64\Debug\moc\moc_occwin.cpp)
+  e:\gitfiles\imsov0.1\imsov0.1\pointxd.h(4): note: 参见“PI”的前一个定义 (编译源文件 x64\Debug\moc\moc_occwin.cpp)
+  iMSOV0.1.vcxproj -> E:\gitFiles\iMSOV0.1\x64\Debug\iMSOV0.1.exe
